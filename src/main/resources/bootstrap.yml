@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo  
+  cloud:
+    config:
+        uri : http://config1:2345
